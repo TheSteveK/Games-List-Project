@@ -54,3 +54,5 @@ fetcher('https://raw.githubusercontent.com/Stothe/Games-List-Project/main/mame20
       $('#upload-form').show();
 
     });
+//manually adding export for testing
+export {metadataArray as mameData};
